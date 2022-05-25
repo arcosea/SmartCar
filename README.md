@@ -4,7 +4,7 @@
 * Comments:
   * Programmed an Arduino Uno to control a smart car using an Infrared Remote Control. 
   * Electronic sensors and components involved: Ultrasonic sensor, 4 DC motors, 1 Servo motor, 1 IR controller, KY-033 line tracking sensor. 
-  *Each button has a unique feature:
+  * Each button has a unique feature:
   * 
   * Button up: moves car forward
   * Button down: moves car backwards
